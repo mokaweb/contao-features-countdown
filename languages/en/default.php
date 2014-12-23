@@ -16,6 +16,6 @@ $strLangSeconds = $GLOBALS['TL_LANG']['MSC']['countdown_simple']['seconds'] = 's
 
 $strLangSecond = $GLOBALS['TL_LANG']['MSC']['countdown_simple']['second'] = 'second';
 
-$strLangExpired = $GLOBALS['TL_LANG']['MSC']['countdown_simple']['expired'] = '(ups, the date is expired)';
+$strLangExpired = $GLOBALS['TL_LANG']['MSC']['countdown_simple']['expired'] = '(ups, the date has expired)';
 
 ?>
