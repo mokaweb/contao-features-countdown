@@ -38,7 +38,7 @@ class Countdown extends Frontend {
 			$intSec = $diffTime % 60; 
 
 			// Warnung 'Abgelaufen' leeren, falls es gefüllt ist
-			if (!empty $strWarning) {
+			if (!empty($strWarning)) {
 				$strWarning = '';
 			}
 
